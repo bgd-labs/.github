@@ -1,0 +1,7 @@
+{
+  "name": "Foundry Test Workflow",
+  "description": "A full blown workflow for all our foundry needs.",
+  "iconName": "octicon home",
+  "categories": ["Solidity"],
+  "filePatterns": [".*\\.sol$"]
+}

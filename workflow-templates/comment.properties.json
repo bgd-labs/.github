@@ -1,0 +1,5 @@
+{
+  "name": "Comment ci results on a pr",
+  "description": "A generalized workflow to comment whatever is found in `content*` artifacts.",
+  "iconName": "octicon comment-discussion"
+}
